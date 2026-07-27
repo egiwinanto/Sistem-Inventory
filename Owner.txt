@@ -1,0 +1,7 @@
+Owner
+Email: admin@stockbite.local
+Password: password
+
+Staff Kasir
+Email: staff@stockbite.local
+Password: password
