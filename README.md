@@ -128,11 +128,4 @@ Tombol logout tersedia di kanan atas, sidebar desktop, dan navigasi bawah mobile
 - Setelah login, owner diarahkan ke dashboard dan staff diarahkan ke kasir.
 - Tampilan login, dashboard, kasir, tabel, modal, dan laporan telah dioptimalkan untuk ponsel.
 
-## Perbaikan versi 1.3.1
-
-- Pengguna yang belum login diarahkan ke form login.
-- Setelah login, perpindahan menu tidak lagi menghapus sesi.
-- Membuka `?page=login` saat sudah login akan diarahkan kembali ke dashboard/kasir.
-- Sesi hanya dihapus saat tombol Logout ditekan.
-- Nama cookie sesi diperbarui agar tidak bentrok dengan instalasi versi lama.
 
